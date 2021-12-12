@@ -10,7 +10,7 @@ Rather than present the data in basic tables, Tableau will be used to provide a 
 
 * **Visual Support: NYC data**
 
-Enclosed are seven support documents representing NYC data from the citibank NYC data
+Enclosed are seven support documents representing NYC CitiBike data
  
 1) Checkout Time for Users: 
 ![Exhibit 1](https://github.com/ljlodl5/bikesharingChallenge/blob/main/Checkout%20Time%20for%20Users.png)
