@@ -13,7 +13,7 @@ Rather than present the data in basic tables, Tableau will be used to provide a 
 Enclosed are seven support documents representing NYC data from the citibank NYC data
  
 1) Checkout Time for Users: 
-![Exhibit 1](https://https://github.com/ljlodl5/bikesharingChallenge/blob/main/Checkout%20Time%20for%20Users.png)
+![Exhibit 1](https://github.com/ljlodl5/bikesharingChallenge/blob/main/Checkout%20Time%20for%20Users.png)
 
 2) Checkout Times by Gender:
 ![Exhibit 2](https://github.com/ljlodl5/bikesharingChallenge/blob/main/Checkout%20Times%20by%20Gender.png)
@@ -43,7 +43,7 @@ One-time usage with tourist intentions are probably closer to the NYC weekend mo
 
 
 #### Link to GitHub
-(https://github.com/ljlodl5/bikesharing)
+(https://github.com/ljlodl5/bikesharingChallenge)
 
 #### Link to Tableau Story
 (https://public.tableau.com/app/profile/lj.lodl)
